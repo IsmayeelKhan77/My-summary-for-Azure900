@@ -1,15 +1,15 @@
 # My-summary-for-Azure900
-Cloud Computing - Summary
+## Cloud Computing - Summary
 Cloud computing means renting computing resources over the internet instead of buying and managing physical hardware. This helps reduce capital expenditure (CAPEX) and operational expenditure (OPEX). For example, instead of buying an expensive server, you can use a virtual machine in the cloud and pay only for what you use.
 
-Cloud Service Models
+## Cloud Service Models
 Infrastructure as a Service (IaaS):
 You get control over virtual machines, storage, and networking. You are responsible for managing the operating system and applications. The cloud provider handles the physical infrastructure. IaaS is ideal for scenarios where you want to move your existing systems to the cloud with minimal changes.
 
-Platform as a Service (PaaS):
+## Platform as a Service (PaaS):
 The cloud provider gives you a ready-to-use platform with development tools and runtime environments. You just deploy your application without worrying about servers or operating systems. It’s great for developers who want to build and run apps quickly.
 
-Software as a Service (SaaS):
+## Software as a Service (SaaS):
 This provides ready-made applications directly to users. You don’t manage anything except how you use the software. Examples include Gmail and Microsoft 365.
 
 Shared Responsibility Model
