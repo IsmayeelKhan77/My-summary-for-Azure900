@@ -57,7 +57,7 @@ Azure has a structured way of organizing resources:
 
 The top level is the Azure account.
 
-Management Groups help organize multiple subscriptions.
+Management Groups help organize multiple subscriptions
 
 Subscriptions are containers for billing and usage.
 
