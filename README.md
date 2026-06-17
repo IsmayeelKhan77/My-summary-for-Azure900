@@ -9,7 +9,7 @@ Cloud computing means renting computing resources over the internet instead of b
 ## Cloud Service Models
 Infrastructure as a Service (IaaS):
 You get control over virtual machines, storage, and networking. You are responsible for managing the operating system and applications. The cloud provider handles the physical infrastructure. IaaS is ideal for scenarios where you want to move your existing systems to the cloud with minimal changes.
-
+ 
 
 
 ## Platform as a Service (PaaS):
